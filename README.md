@@ -46,6 +46,25 @@ Scraping automatizado, tratamento com Pandas e visualização com Plotly/Dash.
 - Google Colab / Jupyter / VSCode
 - Git & GitHub
 
+
+---
+
+### 🔹 [Calculadora Tkinter](https://github.com/elen-c-sales/calculadora_tkinter)
+
+**Aplicativo de calculadora com interface gráfica desenvolvida em Python, inspirado na calculadora do Windows 11.**  
+Projeto simples, funcional e visualmente fiel, com botões estilizados, DPI awareness e suporte a `.exe`.
+
+📌 Funcionalidades:
+- Operações matemáticas básicas, porcentagem e troca de sinal
+- Visual moderno com botões idênticos aos do Windows
+- Suporte a execução direta ou como aplicativo instalável
+
+📷 Interface da calculadora:
+
+<p align="center">
+  <img src="https://github.com/elen-c-sales/calculadora_tkinter/blob/main/docs/demo.png" width="402" height="580" alt="Calculadora Tkinter"/>
+</p>
+
 ---
 
 ## ✨ Sobre mim
