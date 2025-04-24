@@ -24,7 +24,7 @@
            alt="LinkedIn" style="margin:4px; height:20px;" />
     </a>
     <!-- WhatsApp -->
-    <a href="https://wa.me/5591984741391">
+    <a href="https://wa.me/5591985749738">
       <img src="https://img.shields.io/badge/📱-WhatsApp-25D366?style=flat-square&logo=whatsapp"
            alt="WhatsApp" style="margin:4px; height:20px;" />
     </a>
