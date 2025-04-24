@@ -32,7 +32,7 @@
       />
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/elen-c-sales/" target="_blank">
+    <a href="https://www.linkedin.com/in/elen-camila-sales/" target="_blank">
       <img
         src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=linkedin"
         alt="LinkedIn"
