@@ -1,32 +1,51 @@
 <!-- ===========================
-     Hero Section com Badges sociais uniformes
+     Hero Section
 =========================== -->
 <div align="center">
   <h1>
     📂 <span style="color:#d35400;">Portfólio de Elen C. Sales</span><br>
     <small><em>Ciência de Dados &amp; Análise Exploratória</em></small>
   </h1>
-  <p>Bem-vindo(a)! Aqui você encontra soluções que vão de análise estatística a dashboards interativos.</p>
+  <p>
+    Seja bem-vindo(a)! Este repositório reúne meus projetos e estudos na área de
+    <strong>ciência de dados, análise exploratória e automação de processos com dados reais</strong>.
+  </p>
+  <p>
+    Aqui você encontrará soluções que aplicam desde <strong>estatística e visualização interativa</strong>
+    até <strong>web scraping, dashboards, modelagem e uso de ferramentas de BI</strong>.
+  </p>
   <p>
     <!-- Propósito -->
-    <a href="#-propósito">
-      <img src="https://img.shields.io/badge/🧭-Propósito-f39c12?style=flat-square"
-           alt="Propósito" style="margin:4px; height:20px;" />
+    <a href="https://github.com/elen-c-sales/elen-c-sales?tab=readme-ov-file#-propósito">
+      <img
+        src="https://img.shields.io/badge/🧭-Propósito-f39c12?style=flat-square"
+        alt="Propósito"
+        style="margin:4px; height:20px;"
+      />
     </a>
     <!-- Destaques -->
-    <a href="#-destaques">
-      <img src="https://img.shields.io/badge/📊-Destaques-27ae60?style=flat-square"
-           alt="Destaques" style="margin:4px; height:20px;" />
+    <a href="https://github.com/elen-c-sales/elen-c-sales?tab=readme-ov-file#-destaques">
+      <img
+        src="https://img.shields.io/badge/📊-Destaques-27ae60?style=flat-square"
+        alt="Destaques"
+        style="margin:4px; height:20px;"
+      />
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/elen-c-sales/">
-      <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=linkedin"
-           alt="LinkedIn" style="margin:4px; height:20px;" />
+    <a href="https://www.linkedin.com/in/elen-c-sales/" target="_blank">
+      <img
+        src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=linkedin"
+        alt="LinkedIn"
+        style="margin:4px; height:20px;"
+      />
     </a>
     <!-- WhatsApp -->
-    <a href="https://wa.me/5591985749738">
-      <img src="https://img.shields.io/badge/📱-WhatsApp-25D366?style=flat-square&logo=whatsapp"
-           alt="WhatsApp" style="margin:4px; height:20px;" />
+    <a href="https://wa.me/5591985749738" target="_blank">
+      <img
+        src="https://img.shields.io/badge/📱-WhatsApp-25D366?style=flat-square&logo=whatsapp"
+        alt="WhatsApp"
+        style="margin:4px; height:20px;"
+      />
     </a>
   </p>
 </div>
