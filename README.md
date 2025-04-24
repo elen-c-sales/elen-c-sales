@@ -1,8 +1,66 @@
-# 📂 Portfólio de Elen C. Sales — Ciência de Dados & Análise Exploratória
+<!-- ===========================
+     Hero Section com Badges sociais uniformes
+=========================== -->
+<div align="center">
+  <h1>
+    📂 <span style="color:#d35400;">Portfólio de Elen C. Sales</span><br>
+    <small><em>Ciência de Dados &amp; Análise Exploratória</em></small>
+  </h1>
+  <p>Bem-vindo(a)! Aqui você encontra soluções que vão de análise estatística a dashboards interativos.</p>
+  <p>
+    <!-- Propósito -->
+    <a href="#-propósito">
+      <img src="https://img.shields.io/badge/🧭-Propósito-f39c12?style=flat-square"
+           alt="Propósito" style="margin:4px; height:20px;" />
+    </a>
+    <!-- Destaques -->
+    <a href="#-destaques">
+      <img src="https://img.shields.io/badge/📊-Destaques-27ae60?style=flat-square"
+           alt="Destaques" style="margin:4px; height:20px;" />
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/elen-c-sales/">
+      <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=linkedin"
+           alt="LinkedIn" style="margin:4px; height:20px;" />
+    </a>
+    <!-- WhatsApp -->
+    <a href="https://wa.me/5591984741391">
+      <img src="https://img.shields.io/badge/📱-WhatsApp-25D366?style=flat-square&logo=whatsapp"
+           alt="WhatsApp" style="margin:4px; height:20px;" />
+    </a>
+  </p>
+</div>
 
-Seja bem-vindo(a)! Este repositório reúne meus projetos e estudos na área de **ciência de dados, análise exploratória e automação de processos com dados reais**.
-
-Aqui você encontrará soluções que aplicam desde **estatística e visualização interativa** até **web scraping, dashboards, modelagem e uso de ferramentas de BI**.
+<!-- ===========================
+     Tecnologias & Ferramentas
+=========================== -->
+<h2 align="center">🧩 Tecnologias & Ferramentas</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left" style="padding:8px 16px;background:#f0f0f0;">🔧 Ferramenta</th>
+      <th align="left" style="padding:8px 16px;background:#f0f0f0;">📋 Uso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px 16px;">Python</td>
+      <td style="padding:8px 16px;">Análise de dados & automação</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">SQL</td>
+      <td style="padding:8px 16px;">Consultas e modelagem de bancos</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">Plotly / Dash</td>
+      <td style="padding:8px 16px;">Dashboards interativos</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">Selenium</td>
+      <td style="padding:8px 16px;">Web scraping</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
