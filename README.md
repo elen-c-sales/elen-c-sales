@@ -123,6 +123,26 @@ Scraping automatizado, tratamento com Pandas e visualização com Plotly/Dash.
 - Google Colab / Jupyter / VSCode
 - Git & GitHub
 
+---
+
+### 🔹 [Calculadora de Porcentagem Tkinter](https://github.com/elen-c-sales/calculadora_perc)
+
+**Aplicativo gráfico com múltiplas operações percentuais comuns, desenvolvido em Python com interface amigável e responsiva.**  
+Inspirado na ferramenta do 4Devs, este projeto permite calcular percentuais, aumentos, reduções e proporções com uma apresentação visual limpa e organizada em duas colunas.
+
+📌 Funcionalidades:
+- Quanto é X% de Y?
+- X é que porcentagem de Y?
+- Aumento percentual entre dois valores
+- Diminuição percentual entre dois valores
+- Visual moderno e suporte para `.exe` standalone
+- Layout em duas colunas com realce nos resultados
+
+📷 Demonstração:
+
+<p align="center">
+  <img src="https://github.com/elen-c-sales/calculadora_perc/blob/main/docs/demonstracao.gif" width="600" alt="Calculadora de Porcentagem Tkinter"/>
+</p>
 
 ---
 
