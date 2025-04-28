@@ -98,6 +98,25 @@ Os projetos são organizados em repositórios independentes, com explicações, 
 
 ## 📊 Destaques
 
+### 🔹 [ZenCalc — Calculadora Minimalista](https://github.com/elen-c-sales/zencalc)
+
+**Aplicativo mobile de calculadora com design inspirado no iOS**  
+Desenvolvido com React Native e Expo para proporcionar uma experiência fluida, moderna e intuitiva em dispositivos Android.
+
+📌 Funcionalidades:
+- Operações básicas (adição, subtração, multiplicação e divisão)
+- Cálculo de porcentagens e alteração de sinal
+- Interface responsiva, otimizada para toque
+- Visual minimalista com fundo escuro e botões arredondados
+
+📷 Exemplo da interface:  
+<div align="center">
+  <img src="https://github.com/elen-c-sales/zencalc/blob/main/demonstracao.png" 
+       alt="Tela Principal" width="300"/>
+</div>
+
+---
+
 ### 🔹 [Inmet Weather Dashboard](https://github.com/elen-c-sales/inmet-weather-dashboard)
 
 **Dashboard interativo com dados meteorológicos públicos (INMET)**  
