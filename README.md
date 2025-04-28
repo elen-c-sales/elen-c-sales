@@ -16,7 +16,7 @@
   </p>
   <p>
     <!-- Propósito -->
-    <a href="https://github.com/elen-c-sales/elen-c-sales?tab=readme-ov-file#-propósito">
+    <a href="#propósito">
       <img
         src="https://img.shields.io/badge/🧭-Propósito-f39c12?style=flat-square"
         alt="Propósito"
@@ -24,7 +24,7 @@
       />
     </a>
     <!-- Destaques -->
-    <a href="https://github.com/elen-c-sales/elen-c-sales?tab=readme-ov-file#-destaques">
+    <a href="#destaques">
       <img
         src="https://img.shields.io/badge/📊-Destaques-27ae60?style=flat-square"
         alt="Destaques"
