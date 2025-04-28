@@ -78,6 +78,11 @@
       <td style="padding:8px 16px;">Selenium</td>
       <td style="padding:8px 16px;">Web scraping</td>
     </tr>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">React Native</td>
+      <td style="padding:8px 16px;">Desenvolvimento de aplicativos para Android e iOS</td>
+    </tr>
   </tbody>
 </table>
 
