@@ -15,7 +15,15 @@
     até <strong>web scraping, dashboards, modelagem e uso de ferramentas de BI</strong>.
   </p>
   <p>
-    <!-- Propósito -->
+     <!-- Minha Página -->
+     <a href="https://elen-c-sales.github.io/" target="_blank">
+       <img
+         src="https://img.shields.io/badge/🌐-Minha%20Página-1b1aff?style=flat-square"
+         alt="Minha Página"
+         style="margin:4px; height:20px;"
+       />
+     </a>
+       <!-- Propósito -->
     <a href="#-propósito">
       <img
         src="https://img.shields.io/badge/🧭-Propósito-f39c12?style=flat-square"
