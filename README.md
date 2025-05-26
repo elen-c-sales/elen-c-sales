@@ -112,6 +112,27 @@ Os projetos são organizados em repositórios independentes, com explicações, 
 
 ## 📊 Destaques
 
+### 🔹 [**Inadimplência no Brasil — Dashboard Interativo (Shiny)**](https://github.com/elen-c-sales/inadimplencia-shiny-dashboard)
+
+**Dashboard desenvolvido em R com Shiny para análise da inadimplência das pessoas físicas no Brasil, utilizando dados oficiais do Banco Central.**
+A aplicação permite visualizar a evolução da inadimplência ao longo do tempo, aplicar filtros de período, analisar variações mensais e consultar estatísticas descritivas. Todos os dados são coletados automaticamente via API.
+
+📌 Funcionalidades principais:
+
+* Série temporal interativa da inadimplência
+* Cards de resumo com indicadores (média, máximo, mínimo)
+* Análise de variações mensais (absolutas e percentuais)
+* Estatísticas descritivas dinâmicas
+
+🔗 **Acesse o dashboard:**
+[https://elen-c-sales.shinyapps.io/inadimplencia\_shiny/](https://elen-c-sales.shinyapps.io/inadimplencia_shiny/)
+
+📷 Captura de tela:  
+<div align="center">
+  <img src="https://github.com/elen-c-sales/inadimplencia-shiny-dashboard/blob/main/captura_tela.png" 
+       alt="Dashboard Inadimplência no Brasil" width="700"/>
+</div>
+
 ### 🔹 [ZenCalc — Calculadora Minimalista](https://github.com/elen-c-sales/zencalc)
 
 **Aplicativo mobile de calculadora com design inspirado no iOS**  
