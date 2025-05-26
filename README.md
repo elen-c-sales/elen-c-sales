@@ -75,6 +75,10 @@
       <td style="padding:8px 16px;">Análise de dados & automação</td>
     </tr>
     <tr>
+      <td style="padding:8px 16px;">R</td>
+      <td style="padding:8px 16px;">Análise estatística, séries temporais e visualização de dados</td>
+    </tr>
+    <tr>
       <td style="padding:8px 16px;">SQL</td>
       <td style="padding:8px 16px;">Consultas e modelagem de bancos</td>
     </tr>
@@ -86,15 +90,12 @@
       <td style="padding:8px 16px;">Selenium</td>
       <td style="padding:8px 16px;">Web scraping</td>
     </tr>
-    </tr>
     <tr>
       <td style="padding:8px 16px;">React Native</td>
       <td style="padding:8px 16px;">Desenvolvimento de aplicativos para Android e iOS</td>
     </tr>
   </tbody>
 </table>
-
----
 
 ## 🧭 Propósito
 
@@ -127,6 +128,25 @@ Desenvolvido com React Native e Expo para proporcionar uma experiência fluida, 
   <img src="https://github.com/elen-c-sales/zencalc/blob/main/demonstracao.png" 
        alt="Tela Principal" width="300"/>
 </div>
+
+---
+
+### 🔹 [Inadimplência vs. Consumo das Famílias no Brasil](https://github.com/elen-c-sales/inadimplencia-vs-consumo-brasil)
+
+**Análise exploratória da relação entre inadimplência das pessoas físicas e consumo das famílias no Brasil.**  
+Utilizando dados do Banco Central e do IBGE, este projeto investiga se o aumento da inadimplência impacta diretamente o consumo das famílias brasileiras.
+
+📌 Funcionalidades e destaques:
+- Coleta de dados públicos via API do Banco Central e SIDRA/IBGE
+- Análise estatística e correlação entre as variáveis
+- Visualização de séries temporais, dispersão e estatísticas descritivas
+- Interpretação econômica dos resultados com foco na dinâmica do consumo e do endividamento
+
+📷 Visualização principal do projeto:  
+<p align="center">
+  <img src="https://github.com/elen-c-sales/inadimplencia-vs-consumo-brasil/blob/main/Inadimplência%20vs.%20Consumo%20das%20Famílias%20no%20Brasil.png" 
+       alt="Inadimplência vs. Consumo das Famílias no Brasil" width="700"/>
+</p>
 
 ---
 
