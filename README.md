@@ -111,6 +111,28 @@ Os projetos são organizados em repositórios independentes, com explicações, 
 ---
 
 ## 📊 Destaques
+### 🔹 [**Elen4Devs — Suíte de Calculadoras (Web)**](https://github.com/elen-c-sales/elen4devs)
+
+**Aplicação web leve em HTML/CSS/JS puro** que reúne calculadoras de **porcentagens**, **geometria plana (áreas)** e **datas**. Foco em acessibilidade e responsividade, com explicações didáticas dos cálculos.
+
+📌 Funcionalidades principais:
+
+* Porcentagens (6 modos)
+* Geometria: círculo (por **raio** ou **diâmetro** com diagrama), quadrado, retângulo, triângulo, trapézio, paralelogramo, losango, elipse, setor e coroa circular, polígono regular
+* Datas: somar e subtrair dias de uma data
+* UX/A11y: layout responsivo, abas acessíveis (ARIA) com navegação por teclado, `aria-live` nos resultados, formatação **pt-BR** e unidades (`m²`, `cm²`)
+
+🔗 **Acesse a suíte:**
+[https://elen-c-sales.github.io/elen4devs/](https://elen-c-sales.github.io/elen4devs/)
+
+📷 Captura de tela:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elen-c-sales/elen4devs/main/screenshot.png"
+       alt="Elen4Devs — Suíte de Calculadoras" width="700"/>
+</div>
+
+---
 
 ### 🔹 [**Inadimplência no Brasil — Dashboard Interativo (Shiny)**](https://github.com/elen-c-sales/inadimplencia-shiny-dashboard)
 
@@ -132,6 +154,8 @@ A aplicação permite visualizar a evolução da inadimplência ao longo do temp
   <img src="https://github.com/elen-c-sales/inadimplencia-shiny-dashboard/blob/main/captura_tela.png" 
        alt="Dashboard Inadimplência no Brasil" width="700"/>
 </div>
+
+---
 
 ### 🔹 [ZenCalc — Calculadora Minimalista](https://github.com/elen-c-sales/zencalc)
 
