@@ -1,112 +1,89 @@
-<!-- ===========================
-     Hero Section
-=========================== -->
 <div align="center">
-  <h1>
-    📂 <span style="color:#d35400;">Portfólio de Elen C. Sales</span><br>
-    <small><em>Ciência de Dados &amp; Análise Exploratória</em></small>
-  </h1>
-  <p>
-    Seja bem-vindo(a)! Este repositório reúne meus projetos e estudos na área de
-    <strong>ciência de dados, análise exploratória e automação de processos com dados reais</strong>.
-  </p>
-  <p>
-    Aqui você encontrará soluções que aplicam desde <strong>estatística e visualização interativa</strong>
-    até <strong>web scraping, dashboards, modelagem e uso de ferramentas de BI</strong>.
-  </p>
-  <p>
-     <!-- Minha Página -->
-     <a href="https://elen-c-sales.github.io/" target="_blank">
-       <img
-         src="https://img.shields.io/badge/🌐-Minha%20Página-1b1aff?style=flat-square"
-         alt="Minha Página"
-         style="margin:4px; height:20px;"
-       />
-     </a>
-       <!-- Propósito -->
-    <a href="#-propósito">
-      <img
-        src="https://img.shields.io/badge/🧭-Propósito-f39c12?style=flat-square"
-        alt="Propósito"
-        style="margin:4px; height:20px;"
-      />
-    </a>
-    <!-- Destaques -->
-    <a href="#-destaques">
-      <img
-        src="https://img.shields.io/badge/📊-Destaques-27ae60?style=flat-square"
-        alt="Destaques"
-        style="margin:4px; height:20px;"
-      />
-    </a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/elen-camila-sales/" target="_blank">
-      <img
-        src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=linkedin"
-        alt="LinkedIn"
-        style="margin:4px; height:20px;"
-      />
-    </a>
-    <!-- WhatsApp -->
-    <a href="https://wa.me/5591985749738" target="_blank">
-      <img
-        src="https://img.shields.io/badge/📱-WhatsApp-25D366?style=flat-square&logo=whatsapp"
-        alt="WhatsApp"
-        style="margin:4px; height:20px;"
-      />
-    </a>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=BD34FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Elen+Sales!;Cientista+de+Dados;Full-Stack+Developer;Machine+Learning;Automação+&+Dashboards;Seja+bem-vindo(a)!+💜&duration=3000&pause=500" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- ===========================
-     Tecnologias & Ferramentas
-=========================== -->
-<h2 align="center">🧩 Tecnologias & Ferramentas</h2>
-<table align="center">
-  <thead>
-    <tr>
-      <th align="left" style="padding:8px 16px;background:#f0f0f0;">🔧 Ferramenta</th>
-      <th align="left" style="padding:8px 16px;background:#f0f0f0;">📋 Uso</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:8px 16px;">Python</td>
-      <td style="padding:8px 16px;">Análise de dados & automação</td>
-    </tr>
-    <tr>
-      <td style="padding:8px 16px;">R</td>
-      <td style="padding:8px 16px;">Análise estatística, séries temporais e visualização de dados</td>
-    </tr>
-    <tr>
-      <td style="padding:8px 16px;">SQL</td>
-      <td style="padding:8px 16px;">Consultas e modelagem de bancos</td>
-    </tr>
-    <tr>
-      <td style="padding:8px 16px;">Plotly / Dash</td>
-      <td style="padding:8px 16px;">Dashboards interativos</td>
-    </tr>
-    <tr>
-      <td style="padding:8px 16px;">Selenium</td>
-      <td style="padding:8px 16px;">Web scraping</td>
-    </tr>
-    <tr>
-      <td style="padding:8px 16px;">React Native</td>
-      <td style="padding:8px 16px;">Desenvolvimento de aplicativos para Android e iOS</td>
-    </tr>
-  </tbody>
-</table>
+---
 
-## 🧭 Propósito
+## &nbsp;Sobre mim
 
-Este portfólio tem como objetivo apresentar minhas habilidades com:
-- Coleta, tratamento e análise de dados
-- Visualizações interativas e relatórios automatizados
-- Scraping de dados públicos e abertos
-- Programação em Python, SQL e ferramentas de BI
-- Aplicações web e painéis analíticos
+Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimento**. Atuo como **Cientista de Dados** e **Desenvolvedora Full-Stack**, criando desde análises estatísticas robustas até aplicações móveis e interfaces web intuitivas. Meu foco é transformar dados complexos em ferramentas úteis e visualmente agradáveis.
 
-Os projetos são organizados em repositórios independentes, com explicações, imagens e links úteis para facilitar a navegação e compreensão.
+---
+
+## &nbsp;Fatos rápidos
+- 👩‍💻 Especialista em **Python, R e SQL** para análise de dados
+- 📱 Desenvolvedora Mobile com **React Native**
+- 🎨 Entusiasta de **UI/UX** e Design System (Glassmorphism)
+- 🤖 Experiência em **Web Scraping (Selenium)** e Automação
+- 📊 Criação de Dashboards interativos com **Plotly & Dash**
+
+---
+
+## &nbsp;Conecte-se comigo
+<div align="center">
+  <a href="mailto:e.camila.sales@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elen-camila-sales/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://wa.me/5591985749738" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="48" height="48" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://github.com/elen-c-sales" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://elen-c-sales.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/globe.svg" alt="Website" width="48" height="48" style="vertical-align:middle;"/>
+  </a>
+</div>
+
+---
+
+## &nbsp;Tecnologias e Ferramentas
+
+### 🧬 Ciência de Dados & Analytics
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,r" alt="Python, R" style="vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" style="vertical-align:middle;"/>
+  <img src="https://github.com/plotly.png" alt="Plotly" width="48" height="48" style="vertical-align:middle; border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="48" height="48" style="vertical-align:middle;"/>
+</div>
+
+### 🛠️ Desenvolvimento Full-Stack & Mobile
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Web Dev Skills" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_mark_green.svg" alt="Selenium" width="48" height="48" style="vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap" alt="Frameworks" style="vertical-align:middle;"/>
+</div>
+
+### 🗄️ Banco de Dados & Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,vscode,github" alt="DB & Tools" style="vertical-align:middle;"/>
+</div>
+
+---
+
+## &nbsp;Gráfico de Atividades
+
+<div align="center">
+  <a href="https://github.com/elen-c-sales">
+    <img alt="Elen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elen-c-sales&bg_color=ffffff&color=bd34fe&line=bd34fe&point=bd34fe&area=true&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>
+    <span style="color:#bd34fe;">Portfólio de Elen Camila Sales</span>
+  </h3>
+  <p>
+    <em>"Transformando dados em ferramentas inteligentes e criando soluções escaláveis."</em>
+  </p>
+</div>
 
 ---
 
