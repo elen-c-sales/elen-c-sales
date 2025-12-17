@@ -42,7 +42,7 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 
 ---
 
-## &nbsp;Tecnologias e Ferramentas
+## &nbsp;Tech Stack
 
 ### 🧬 Ciência de Dados & Analytics
 <div align="left">
