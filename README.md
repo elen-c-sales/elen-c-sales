@@ -238,6 +238,25 @@ Projeto simples, funcional e visualmente fiel, com botões estilizados, DPI awar
 
 ---
 
+### 🔹 [Doom Fire Algorithm (Python/Pygame)](https://github.com/elen-c-sales/fogo_doom)
+
+**Implementação do clássico efeito de fogo do jogo Doom utilizando Python e Pygame.**
+O projeto simula a propagação de calor através de uma matriz de pixels, aplicando uma paleta de cores personalizada para recriar o visual icônico com efeitos de vento e turbulência.
+
+📌 Funcionalidades:
+- Simulação física simplificada de propagação de calor e decaimento
+- Renderização baseada em paleta de cores (37 tons)
+- Efeito de vento e turbulência para maior dinamismo
+- Controles interativos para reiniciar o fogo
+
+📷 Demonstração:
+
+<p align="center">
+  <img src="https://github.com/elen-c-sales/fogo_doom/raw/main/demo.gif" width="600" alt="Doom Fire Demo"/>
+</p>
+
+---
+
 ## ✨ Sobre mim
 
 Sou apaixonada por transformar dados em soluções úteis, visuais e automatizadas. Este portfólio reflete meu interesse em resolver problemas reais através da **ciência de dados**, combinando **programação, análise e comunicação de resultados**.
