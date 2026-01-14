@@ -100,6 +100,12 @@ O jogador deve percorrer a maior distância possível enquanto desvia de obstác
 * Detecção de colisão precisa com hitboxes ajustadas
 * Efeitos visuais de partículas e parallax
 
+📷 Demonstração:
+
+
+https://github.com/user-attachments/assets/da232aed-331b-4e2f-8c73-2a47b6fbc29a
+
+
 ---
 
 ### 🔹 [Doom Fire Algorithm (Python/Pygame)](https://github.com/elen-c-sales/fogo_doom)
