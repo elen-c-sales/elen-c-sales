@@ -88,6 +88,39 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 ---
 
 ## 📊 Destaques
+
+### 🔹 [Dino Run - Vecna Edition](https://github.com/elen-c-sales/dino-run-vecna-edition)
+
+**Endless runner temático de Stranger Things desenvolvido em Python com Pygame.**
+O jogador deve percorrer a maior distância possível enquanto desvia de obstáculos no "Mundo Invertido", enfrentando Vecna e Demobats.
+
+📌 Funcionalidades:
+* Geração procedural de obstáculos (vinhas, relógios, demobats)
+* Sistema de pontuação e highscore local
+* Detecção de colisão precisa com hitboxes ajustadas
+* Efeitos visuais de partículas e parallax
+
+---
+
+### 🔹 [Doom Fire Algorithm (Python/Pygame)](https://github.com/elen-c-sales/fogo_doom)
+
+**Implementação do clássico efeito de fogo do jogo Doom utilizando Python e Pygame.**
+O projeto simula a propagação de calor através de uma matriz de pixels, aplicando uma paleta de cores personalizada para recriar o visual icônico com efeitos de vento e turbulência.
+
+📌 Funcionalidades:
+- Simulação física simplificada de propagação de calor e decaimento
+- Renderização baseada em paleta de cores (37 tons)
+- Efeito de vento e turbulência para maior dinamismo
+- Controles interativos para reiniciar o fogo
+
+📷 Demonstração:
+
+<p align="center">
+  <img src="https://github.com/elen-c-sales/fogo_doom/raw/main/demo.gif" width="600" alt="Doom Fire Demo"/>
+</p>
+
+---
+
 ### 🔹 [**Elen4Devs — Suíte de Calculadoras (Web)**](https://github.com/elen-c-sales/elen4devs)
 
 **Aplicação web leve em HTML/CSS/JS puro** que reúne calculadoras de **porcentagens**, **geometria plana (áreas)** e **datas**. Foco em acessibilidade e responsividade, com explicações didáticas dos cálculos.
@@ -134,25 +167,6 @@ A aplicação permite visualizar a evolução da inadimplência ao longo do temp
 
 ---
 
-### 🔹 [ZenCalc — Calculadora Minimalista](https://github.com/elen-c-sales/zencalc)
-
-**Aplicativo mobile de calculadora com design inspirado no iOS**  
-Desenvolvido com React Native e Expo para proporcionar uma experiência fluida, moderna e intuitiva em dispositivos Android.
-
-📌 Funcionalidades:
-- Operações básicas (adição, subtração, multiplicação e divisão)
-- Cálculo de porcentagens e alteração de sinal
-- Interface responsiva, otimizada para toque
-- Visual minimalista com fundo escuro e botões arredondados
-
-📷 Exemplo da interface:  
-<div align="center">
-  <img src="https://github.com/elen-c-sales/zencalc/blob/main/demonstracao.png" 
-       alt="Tela Principal" width="300"/>
-</div>
-
----
-
 ### 🔹 [Inadimplência vs. Consumo das Famílias no Brasil](https://github.com/elen-c-sales/inadimplencia-vs-consumo-brasil)
 
 **Análise exploratória da relação entre inadimplência das pessoas físicas e consumo das famílias no Brasil.**  
@@ -172,30 +186,22 @@ Utilizando dados do Banco Central e do IBGE, este projeto investiga se o aumento
 
 ---
 
-### 🔹 [Inmet Weather Dashboard](https://github.com/elen-c-sales/inmet-weather-dashboard)
+### 🔹 [ZenCalc — Calculadora Minimalista](https://github.com/elen-c-sales/zencalc)
 
-**Dashboard interativo com dados meteorológicos públicos (INMET)**  
-Scraping automatizado, tratamento com Pandas e visualização com Plotly/Dash.
+**Aplicativo mobile de calculadora com design inspirado no iOS**  
+Desenvolvido com React Native e Expo para proporcionar uma experiência fluida, moderna e intuitiva em dispositivos Android.
 
 📌 Funcionalidades:
-- Coleta automática via Selenium
-- Processamento de dados climáticos (últimos 30 dias)
-- Visualização com múltiplos eixos y para temperatura, umidade e precipitação
-- Resumo do último dia disponível com ícones temáticos
+- Operações básicas (adição, subtração, multiplicação e divisão)
+- Cálculo de porcentagens e alteração de sinal
+- Interface responsiva, otimizada para toque
+- Visual minimalista com fundo escuro e botões arredondados
 
-📷 Exemplo do painel:  
-![dashboard](https://github.com/elen-c-sales/inmet-weather-dashboard/blob/main/docs/dashboard_example.png)
-
----
-
-## 🧰 Tecnologias e Ferramentas
-
-- Python (Pandas, Dash, Plotly, Selenium)
-- SQL (PostgreSQL)
-- Visualização de Dados
-- Automação com scripts
-- Google Colab / Jupyter / VSCode
-- Git & GitHub
+📷 Exemplo da interface:  
+<div align="center">
+  <img src="https://github.com/elen-c-sales/zencalc/blob/main/demonstracao.png" 
+       alt="Tela Principal" width="300"/>
+</div>
 
 ---
 
@@ -238,22 +244,30 @@ Projeto simples, funcional e visualmente fiel, com botões estilizados, DPI awar
 
 ---
 
-### 🔹 [Doom Fire Algorithm (Python/Pygame)](https://github.com/elen-c-sales/fogo_doom)
+### 🔹 [Inmet Weather Dashboard](https://github.com/elen-c-sales/inmet-weather-dashboard)
 
-**Implementação do clássico efeito de fogo do jogo Doom utilizando Python e Pygame.**
-O projeto simula a propagação de calor através de uma matriz de pixels, aplicando uma paleta de cores personalizada para recriar o visual icônico com efeitos de vento e turbulência.
+**Dashboard interativo com dados meteorológicos públicos (INMET)**  
+Scraping automatizado, tratamento com Pandas e visualização com Plotly/Dash.
 
 📌 Funcionalidades:
-- Simulação física simplificada de propagação de calor e decaimento
-- Renderização baseada em paleta de cores (37 tons)
-- Efeito de vento e turbulência para maior dinamismo
-- Controles interativos para reiniciar o fogo
+- Coleta automática via Selenium
+- Processamento de dados climáticos (últimos 30 dias)
+- Visualização com múltiplos eixos y para temperatura, umidade e precipitação
+- Resumo do último dia disponível com ícones temáticos
 
-📷 Demonstração:
+📷 Exemplo do painel:  
+![dashboard](https://github.com/elen-c-sales/inmet-weather-dashboard/blob/main/docs/dashboard_example.png)
 
-<p align="center">
-  <img src="https://github.com/elen-c-sales/fogo_doom/raw/main/demo.gif" width="600" alt="Doom Fire Demo"/>
-</p>
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+- Python (Pandas, Dash, Plotly, Selenium)
+- SQL (PostgreSQL)
+- Visualização de Dados
+- Automação com scripts
+- Google Colab / Jupyter / VSCode
+- Git & GitHub
 
 ---
 
