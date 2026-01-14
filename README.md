@@ -68,11 +68,11 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 
 ## &nbsp;Gráfico de Atividades
 
-<div align="center">
-  <a href="https://github.com/elen-c-sales">
-    <img alt="Elen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elen-c-sales&bg_color=ffffff&color=bd34fe&line=bd34fe&point=bd34fe&area=true&hide_border=true" />
-  </a>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elen-c-sales/elen-c-sales/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elen-c-sales/elen-c-sales/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elen-c-sales/elen-c-sales/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
