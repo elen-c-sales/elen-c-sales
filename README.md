@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=BD34FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Elen+Sales!;Cientista+de+Dados;Full-Stack+Developer;Machine+Learning;Automação+&+Dashboards;Seja+bem-vindo(a)!+💜&duration=3000&pause=500" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=BD34FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Elen+Sales!;Game+Developer;Cientista+de+Dados;Full-Stack+Developer;Machine+Learning;Automação+&+Dashboards;Seja+bem-vindo(a)!+💜&duration=3000&pause=500" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,11 +8,12 @@
 
 ## &nbsp;Sobre mim
 
-Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimento**. Atuo como **Cientista de Dados** e **Desenvolvedora Full-Stack**, criando desde análises estatísticas robustas até aplicações móveis e interfaces web intuitivas. Meu foco é transformar dados complexos em ferramentas úteis e visualmente agradáveis.
+Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimento**. Atuo como **Game Developer**, **Cientista de Dados** e **Desenvolvedora Full-Stack**, criando desde jogos interativos e algoritmos visuais até análises estatísticas robustas e aplicações móveis. Meu foco é transformar ideias criativas e dados complexos em ferramentas úteis e visualmente agradáveis.
 
 ---
 
 ## &nbsp;Fatos rápidos
+- 🎮 Desenvolvedora de jogos com **Pygame** (Asteroids, Endless Runners, Algoritmos Visuais)
 - 👩‍💻 Especialista em **Python, R e SQL** para análise de dados
 - 📱 Desenvolvedora Mobile com **React Native**
 - 🎨 Entusiasta de **UI/UX** e Design System (Glassmorphism)
@@ -43,6 +44,12 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 ---
 
 ## &nbsp;Tech Stack
+
+### 🎮 Game Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="vertical-align:middle;"/>
+  <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="Pygame" width="120" height="48" style="vertical-align:middle;"/>
+</div>
 
 ### 🧬 Ciência de Dados & Analytics
 <div align="left">
@@ -78,7 +85,7 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 
 <div align="center">
   <h3>
-    <span style="color:#bd34fe;">Portfólio de Elen Camila Sales</span>
+    <a href="https://elen-c-sales.github.io/" style="color:#bd34fe;">Portfólio de Elen Camila Sales</a>
   </h3>
   <p>
     <em>"Transformando dados em ferramentas inteligentes e criando soluções escaláveis."</em>
@@ -292,7 +299,8 @@ Scraping automatizado, tratamento com Pandas e visualização com Plotly/Dash.
 
 ## 🧰 Tecnologias e Ferramentas
 
-- Python (Pandas, Dash, Plotly, Selenium)
+- Python (Pygame, Pandas, Dash, Plotly, Selenium)
+- JavaScript (HTML5 Canvas, React Native)
 - SQL (PostgreSQL)
 - Visualização de Dados
 - Automação com scripts
@@ -303,7 +311,7 @@ Scraping automatizado, tratamento com Pandas e visualização com Plotly/Dash.
 
 ## ✨ Sobre mim
 
-Sou apaixonada por transformar dados em soluções úteis, visuais e automatizadas. Este portfólio reflete meu interesse em resolver problemas reais através da **ciência de dados**, combinando **programação, análise e comunicação de resultados**.
+Sou apaixonada por criar experiências interativas e transformar dados em soluções úteis. Este portfólio reflete meu interesse em resolver problemas reais através de **desenvolvimento de jogos**, **ciência de dados** e **desenvolvimento full-stack**, combinando **programação criativa, análise robusta e comunicação de resultados**.
 
 📬 Vamos conversar no [LinkedIn](https://www.linkedin.com/in/elen-c-sales/)
 
