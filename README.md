@@ -96,6 +96,31 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 
 ## 📊 Destaques
 
+### 🔹 [PyOpenCV-FaceRec](https://github.com/elen-c-sales/PyOpenCV-FaceRec)
+
+**Sistema completo de reconhecimento facial utilizando o algoritmo LBPH da biblioteca OpenCV.**
+O software oferece duas interfaces de operação: uma GUI moderna desenvolvida com CustomTkinter e uma CLI para operações via terminal.
+
+📌 Funcionalidades:
+*   Cadastro de usuários e coleta de amostras faciais automáticas
+*   Treinamento do modelo LBPH
+*   Reconhecimento facial em tempo real via Webcam
+*   Interface Gráfica (GUI) moderna e intuitiva
+*   Modo CLI para automação
+
+🔗 **Acesse o repositório:**
+[https://github.com/elen-c-sales/PyOpenCV-FaceRec](https://github.com/elen-c-sales/PyOpenCV-FaceRec)
+
+📷 Demonstração (GUI):
+
+https://github.com/user-attachments/assets/be42903c-6426-4690-abe0-d8418555756a
+
+📷 Demonstração (CLI):
+
+https://github.com/user-attachments/assets/a03d3882-5e80-44ea-ad88-c1a9bad9dfe6
+
+---
+
 ### 🔹 [Pygame Asteroids](https://github.com/elen-c-sales/pygame-asteroids)
 
 **Clássico jogo de asteroides recriado em Python com Pygame.**
