@@ -121,6 +121,9 @@ O jogador deve percorrer a maior distância possível enquanto desvia de obstác
 * Detecção de colisão precisa com hitboxes ajustadas
 * Efeitos visuais de partículas e parallax
 
+🔗 **Jogue agora:**
+[https://elen-c-sales.github.io/dino-run-vecna-edition/](https://elen-c-sales.github.io/dino-run-vecna-edition/)
+
 📷 Demonstração:
 
 
