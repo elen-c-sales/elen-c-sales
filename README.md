@@ -89,6 +89,27 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 
 ## 📊 Destaques
 
+### 🔹 [Pygame Asteroids](https://github.com/elen-c-sales/pygame-asteroids)
+
+**Clássico jogo de asteroides recriado em Python com Pygame.**
+O jogador controla uma nave espacial que deve destruir asteroides e discos voadores para sobreviver.
+
+📌 Funcionalidades:
+* Movimentação e rotação da nave
+* Disparos de projéteis
+* Geração aleatória de asteroides com diferentes tamanhos e velocidades
+* Sistema de pontuação e vidas
+* Efeitos sonoros e trilha sonora
+
+🔗 **Jogue agora:**
+[https://elen-c-sales.github.io/pygame-asteroids/](https://elen-c-sales.github.io/pygame-asteroids/)
+
+📷 Demonstração:
+
+https://github.com/user-attachments/assets/45922754-a0f3-4682-9790-9c348d69de92
+
+---
+
 ### 🔹 [Dino Run - Vecna Edition](https://github.com/elen-c-sales/dino-run-vecna-edition)
 
 **Endless runner temático de Stranger Things desenvolvido em Python com Pygame.**
