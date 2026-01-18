@@ -128,7 +128,7 @@ O jogador deve percorrer a maior distância possível enquanto desvia de obstác
 * Detecção de colisão precisa com hitboxes ajustadas
 * Efeitos visuais de partículas e parallax
 
-🔗 **Jogue agora:**
+🔗 **Teste agora:**
 [https://elen-c-sales.github.io/dino-run-vecna-edition/](https://elen-c-sales.github.io/dino-run-vecna-edition/)
 
 📷 Demonstração:
@@ -155,6 +155,27 @@ O projeto simula a propagação de calor através de uma matriz de pixels, aplic
 <p align="center">
   <img src="https://github.com/elen-c-sales/fogo_doom/raw/main/demo.gif" width="600" alt="Doom Fire Demo"/>
 </p>
+
+---
+
+### 🔹 [Raycasting - Estudo de Iluminação 2D](https://github.com/elen-c-sales/raycasting-2D)
+
+**Implementação técnica de raycasting 2D aplicado à iluminação dinâmica.**
+Desenvolvido com Python e Pygame para fins de estudo e exploração do conceito.
+
+📌 Funcionalidades:
+* Raycasting em tempo real com 180 raios
+* Iluminação dinâmica usando intersecção de linhas
+* Sistema de portas interativas
+* Detecção de colisão precisa com paredes e obstáculos
+* Mapa complexo no estilo mansão
+
+🔗 **Jogue agora:**
+[https://elen-c-sales.github.io/raycasting-2D/](https://elen-c-sales.github.io/raycasting-2D/)
+
+📷 Demonstração:
+
+https://github.com/user-attachments/assets/6931c73e-0108-4024-9dde-12e4727fd515
 
 ---
 
