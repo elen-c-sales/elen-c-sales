@@ -35,32 +35,39 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 ## &nbsp;Tech Stack
 
 ### 🎮 Game Development
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="vertical-align:middle;"/>
-  <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="Pygame" width="120" height="48" style="vertical-align:middle;"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>&nbsp;&nbsp;
+    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="Pygame" height="48"/>
+</p>
 
 ### 🧬 Ciência de Dados & Analytics
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r" alt="Python, R" style="vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" style="vertical-align:middle;"/>
-  <img src="https://github.com/plotly.png" alt="Plotly" width="48" height="48" style="vertical-align:middle; border-radius: 50%;"/>
-  <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="48" height="48" style="vertical-align:middle;"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=r" alt="R" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="48"/>&nbsp;&nbsp;
+  <img src="https://github.com/plotly.png" alt="Plotly" width="48"/>&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="48"/>
+</p>
 
 ### 🛠️ Desenvolvimento Full-Stack & Mobile
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Web Dev Skills" style="vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_mark_green.svg" alt="Selenium" width="48" height="48" style="vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap" alt="Frameworks" style="vertical-align:middle;"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_mark_green.svg" alt="Selenium" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48"/>
+</p>
 
 ### 🗄️ Banco de Dados & Ferramentas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,vscode,github" alt="DB & Tools" style="vertical-align:middle;"/>
-</div>
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
+</p>
 
 ## &nbsp;Gráfico de Atividades
 
