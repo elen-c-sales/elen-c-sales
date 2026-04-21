@@ -96,6 +96,26 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 
 ## 📊 Destaques
 
+### 🔹 [Gunship CQB](https://github.com/elen-c-sales/gunship-cqb)
+
+**Simulador tático de combate espacial 3D inspirado na série *The Expanse*.**
+Pilote uma corveta em combates de curta distância (CQB) altamente letais, gerenciando sistemas de armas e defesas automatizadas.
+
+📌 Funcionalidades:
+*   **Sistemas de Armas:** Canhões de rajada com detecção "swept volume" e torpedos guiados com lógica de evasão inimiga.
+*   **PDC (Point Defense Cannon):** Sistema de defesa automatizado para interceptação de projéteis e torpedos.
+*   **Combate de Alta Letalidade:** Modelo de dano realista onde a precisão e o tempo de reação são críticos.
+*   **Motor Customizado:** Sistema de colisão adaptativo e motor de partículas otimizado para combate espacial veloz.
+
+🔗 **Acesse o repositório:**
+[https://github.com/elen-c-sales/gunship-cqb](https://github.com/elen-c-sales/gunship-cqb)
+
+📷 Demonstração:
+
+https://github.com/user-attachments/assets/ecdd8080-2176-40ab-9e0d-d98996f7fd1c
+
+---
+
 ### 🔹 [PyOpenCV-FaceRec](https://github.com/elen-c-sales/PyOpenCV-FaceRec)
 
 **Sistema completo de reconhecimento facial utilizando o algoritmo LBPH da biblioteca OpenCV.**
