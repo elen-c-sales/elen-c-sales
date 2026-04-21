@@ -23,25 +23,14 @@ Sou uma profissional apaixonada pela intersecção entre **Dados e Desenvolvimen
 ---
 
 ## &nbsp;Conecte-se comigo
-<div align="center">
-  <a href="mailto:e.camila.sales@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/elen-camila-sales/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://wa.me/5591985749738" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="48" height="48" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://github.com/elen-c-sales" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://elen-c-sales.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/globe.svg" alt="Website" width="48" height="48" style="vertical-align:middle;"/>
-  </a>
-</div>
 
----
+<p align="center">
+  <a href="mailto:e.camila.sales@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/elen-camila-sales/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>&nbsp;&nbsp;
+  <a href="https://wa.me/5591985749738"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="48"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/elen-c-sales"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>&nbsp;&nbsp;
+  <a href="https://elen-c-sales.github.io/"><img src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/globe.svg" alt="Website" width="48"/></a>
+</p>
 
 ## &nbsp;Tech Stack
 
