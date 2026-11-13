@@ -17,7 +17,7 @@
 
 ---
 
-## 👩‍💻 Sobre
+## Sobre
 
 Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise de dados (Python, R, SQL)** e **aplicações full-stack**. Gosto de explorar desde algoritmos visuais e gráficos interativos até modelagem preditiva e dashboards analíticos.
 
@@ -25,7 +25,7 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,ts,js,react,astro,nodejs,html,css" alt="Linguagens e Web" />
@@ -91,7 +91,7 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elen-c-sales&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
@@ -100,7 +100,7 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 
 ---
 
-## 📬 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:e.camila.sales@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
