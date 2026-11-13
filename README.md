@@ -5,7 +5,7 @@
   <p>Transformando dados em ferramentas e ideias em experiências interativas.</p>
 
   <a href="https://elen.is-a.dev/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-elen.is-a.dev-8a7bff?style=for-the-badge&logo=astro&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-elen.is-a.dev-8a7bff?style=for-the-badge" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/elen-camila-sales/">
     <img src="https://img.shields.io/badge/LinkedIn-elen--camila--sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -98,7 +98,7 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
   <a href="mailto:e.camila.sales@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/elen-camila-sales/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/elen-c-sales"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://elen.is-a.dev/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8a7bff?style=for-the-badge&logo=astro&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://elen.is-a.dev/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8a7bff?style=for-the-badge" alt="Portfólio" /></a>
 </p>
 
 <div align="center">
