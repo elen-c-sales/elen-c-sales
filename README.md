@@ -20,7 +20,7 @@
 
 Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise de dados (Python, R, SQL)** e **aplicações full-stack**. Gosto de explorar desde algoritmos visuais e gráficos interativos até modelagem preditiva e dashboards analíticos.
 
-> 📌 **Meu portfólio completo está em [elen.is-a.dev](https://elen.is-a.dev/)** — com 17 projetos, filtros por área, segredos e terminal interativo.
+> **Portfólio:** [elen.is-a.dev](https://elen.is-a.dev/) — com 17 projetos, filtros por área, segredos e terminal interativo.
 
 ---
 
@@ -29,36 +29,36 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Gunship CQB</h3>
+      <h3>Gunship CQB</h3>
       <p>Simulador tático 3D inspirado em <em>The Expanse</em>. Combate espacial de curta distância com PDC, torpedos e colisão adaptativa.</p>
       <a href="https://github.com/elen-c-sales/gunship-cqb">Repositório</a> · <a href="https://elen.is-a.dev/projetos/gunship-cqb/">No portfólio</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 PyOpenCV-FaceRec</h3>
+      <h3>PyOpenCV-FaceRec</h3>
       <p>Reconhecimento facial com LBPH (OpenCV) em GUI (CustomTkinter) e CLI. Cadastro, treino e reconhecimento em tempo real.</p>
       <a href="https://github.com/elen-c-sales/PyOpenCV-FaceRec">Repositório</a> · <a href="https://elen.is-a.dev/projetos/pyopencv-facerec/">No portfólio</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 Doom Fire Algorithm</h3>
+      <h3>Doom Fire Algorithm</h3>
       <p>Recriação do efeito de fogo do Doom com propagação de calor, paleta de 37 tons e turbulência.</p>
       <a href="https://github.com/elen-c-sales/fogo_doom">Repositório</a> · <a href="https://elen.is-a.dev/projetos/doom-fire/">No portfólio</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Inadimplência no Brasil</h3>
+      <h3>Inadimplência no Brasil</h3>
       <p>Dashboard Shiny (R) com dados do Banco Central: série temporal, variações mensais e estatísticas descritivas.</p>
       <a href="https://github.com/elen-c-sales/inadimplencia-shiny-dashboard">Repositório</a> · <a href="https://elen.is-a.dev/projetos/inadimplencia-brasil/">No portfólio</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Raycasting 2D</h3>
+      <h3>Raycasting 2D</h3>
       <p>Iluminação dinâmica em tempo real com 180 raios, portas interativas e mapa estilo mansão.</p>
       <a href="https://github.com/elen-c-sales/raycasting-2D">Repositório</a> · <a href="https://elen.is-a.dev/projetos/raycasting-2d/">No portfólio</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 ZenCalc</h3>
+      <h3>ZenCalc</h3>
       <p>Calculadora mobile minimalista (React Native/Expo) com design inspirado no iOS.</p>
       <a href="https://github.com/elen-c-sales/zencalc">Repositório</a> · <a href="https://elen.is-a.dev/projetos/zencalc/">No portfólio</a>
     </td>
@@ -90,7 +90,6 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 
 ---
 
-
 ## Contato
 
 <p align="center">
@@ -101,5 +100,5 @@ Sou desenvolvedora versátil com experiência em **jogos (Pygame)**, **análise 
 </p>
 
 <div align="center">
-  <sub>Feito com 💜 por Elen Camila · <a href="https://elen.is-a.dev/">elen.is-a.dev</a></sub>
+  <sub>Feito por Elen Camila · <a href="https://elen.is-a.dev/">elen.is-a.dev</a></sub>
 </div>
