@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/elen-c-sales.png" width="120" style="border-radius: 50%;" alt="Elen Camila" />
   <h1>Elen Camila Sales Silva</h1>
   <p><strong>Game Dev · Data Science · Full-Stack</strong></p>
   <p>Transformando dados em ferramentas e ideias em experiências interativas.</p>
